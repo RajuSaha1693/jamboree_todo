@@ -1,5 +1,5 @@
 # jamboree_todo
-This is built using PHP framework Codeigniter 3.1 and MySQL for database management. Used Bootstrap and SB Admin of bootstrap for building the UI of the Web Application
+This is built using PHP framework Codeigniter 3.1 and MySQL for database management. Used Bootstrap and SB Admin of bootstrap for building the UI of the Web Application.
 # Description
 It includes all the features given as the task for creating the Todo List i.e
 ● Users can register/login
